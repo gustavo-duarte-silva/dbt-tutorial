@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: fivetran_hvr  
+    database: fivetran-458612 
+    schema: ds_fivetran_hvr   
+    tables:
+      - name: carros
